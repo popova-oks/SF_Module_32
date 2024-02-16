@@ -2,7 +2,6 @@
 #include <iostream>
 #include <string.h>
 
-//класс для представления массива байт
 class Result {
   public:
     Result() {}
